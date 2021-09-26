@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @com-ashwin
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning MCA 
-- 💞️ I’m looking to collaborate on anything you want ;-)
+- 💞️ I’m looking to collaborate on Programming,Python,django and new technologies ;-)
 - 📫 How to reach me ... u can contact me at ashwinbehera980@gmail.com
 
 <!---
